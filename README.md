@@ -13,5 +13,11 @@ The RAG pipeline involves the following steps:
 ## Setup Instructions
 1. Clone the Repository
    ```bash
-
+https://github.com/michalbar031/Pinecone_VectorDB_and_RAG.git
    ```
+```bash
+cd Pinecone_VectorDB_and_RAG
+   ```
+2. Place API Keys
+Create a file named ```cohere_api_key.txt``` and add your Cohere API key.
+Create a file named ```pinecone_api_key.txt``` and add your Pinecone API key.
